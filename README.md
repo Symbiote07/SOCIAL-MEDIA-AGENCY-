@@ -35,11 +35,9 @@ A modern, responsive website designed to help new businesses build their brand i
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Demo  
 
-**Live Preview**: [Click Here](#) *(Add your hosted link here later)*  
-
-![Screenshot 1](/path/to/screenshot1.png) *(Add screenshots of your website)*  
+![Screenshot 1]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2025-03-18 005457.png")
 *Caption: Clean hero section with a strong call-to-action.*
 
 ---
